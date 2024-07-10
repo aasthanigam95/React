@@ -12,6 +12,9 @@ const Datte = () => {
   return (
     <div>
       <p>{time}</p>
+      <h1>
+        
+      </h1>
     </div>
   )
 }
