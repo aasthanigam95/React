@@ -3,6 +3,9 @@ import Home from './Home'
 import Eventt from './Eventt';
 import Eventt2 from './Eventt2';
 import Datte from './Datte';
+import UseEffectt from './UseEffectt';
+import UserProfile from './UserProfile';
+
 
 
 const App = (obj) => {
@@ -16,7 +19,10 @@ const App = (obj) => {
      {/* <Home a={obj.s} /> */}
       {/* <Eventt/> */}
       {/* <Eventt2/> */}
-      <Datte/>
+      {/* <Datte/> */}
+   
+      {/* <UseEffectt/> */}
+      <UserProfile/>
     </div>
   )
 }
